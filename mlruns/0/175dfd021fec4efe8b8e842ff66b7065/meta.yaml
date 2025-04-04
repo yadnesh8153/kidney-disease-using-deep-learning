@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theab/Downloads/DSP/Deep_Learning/DL_Project/mlruns/0/175dfd021fec4efe8b8e842ff66b7065/artifacts
+end_time: 1742207330811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 175dfd021fec4efe8b8e842ff66b7065
+run_name: thoughtful-lynx-254
+run_uuid: 175dfd021fec4efe8b8e842ff66b7065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742207309135
+status: 3
+tags: []
+user_id: theab
